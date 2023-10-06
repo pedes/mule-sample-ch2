@@ -5,6 +5,7 @@
 	<!-- In CH2.0 groupID must be your Business Group ID-->
 	<groupId>c9098cce-0bc8-42ba-8347-aa212cc11583</groupId>
 	<artifactId>mule-cicd-actions-example</artifactId>
+	<!-- SEM VER is requiored, MAJOR.MINOR.PATCH, BREAKS.FEATURE.FIX-->
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
